@@ -1,0 +1,7 @@
+[
+  {
+    "ActionName": "entregarPedido",
+    "EventName": "pedido_entregue",
+    "PrivateKey": "MOTO_BOY"
+  }
+]

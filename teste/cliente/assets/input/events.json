@@ -1,0 +1,10 @@
+[
+  {
+    "EventName": "boleto_criado",
+    "PublicKey": "TESOURARIA"
+  },
+  {
+    "EventName": "pedido_entregue",
+    "PublicKey": "MOTO_BOY"
+  }
+] 

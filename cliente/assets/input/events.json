@@ -1,0 +1,10 @@
+[
+  {
+    "EventName": "eventA",
+    "PublicKey": "CLIENTE"
+  },
+  {
+    "EventName": "eventB",
+    "PublicKey": "CLIENTE"
+  }
+]

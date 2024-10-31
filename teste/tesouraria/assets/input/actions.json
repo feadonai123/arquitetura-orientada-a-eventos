@@ -1,0 +1,7 @@
+[
+  {
+    "ActionName": "boletoCriado",
+    "EventName": "boleto_criado",
+    "PrivateKey": "TESOURARIA"
+  }
+]

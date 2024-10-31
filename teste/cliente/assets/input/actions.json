@@ -1,0 +1,12 @@
+[
+  {
+    "ActionName": "criarPedido",
+    "EventName": "pedido_criado",
+    "PrivateKey": "CLIENTE"
+  },
+  {
+    "ActionName": "pagarPedido",
+    "EventName": "pagamento_efetivado",
+    "PrivateKey": "CLIENTE"
+  }
+] 

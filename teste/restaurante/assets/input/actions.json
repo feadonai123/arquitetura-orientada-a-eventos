@@ -1,0 +1,7 @@
+[
+  {
+    "ActionName": "pedidoDespachado",
+    "EventName": "pedido_despachado",
+    "PrivateKey": "RESTAURANTE"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "EventName": "pagamento_efetivado",
+    "PublicKey": "CLIENTE"
+  }
+]

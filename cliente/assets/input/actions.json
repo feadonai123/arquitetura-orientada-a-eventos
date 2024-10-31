@@ -1,0 +1,12 @@
+[
+  {
+    "ActionName": "actionA",
+    "EventName": "eventA",
+    "PrivateKey": "CLIENTE"
+  },
+  {
+    "ActionName": "actionB",
+    "EventName": "eventB",
+    "PrivateKey": "CLIENTE"
+  }
+]
